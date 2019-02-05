@@ -1,6 +1,1 @@
-* text=auto
-static/* linguist-vendored
-*.css linguist-vendored
-*.scss linguist-vendored
-*.js linguist-vendored
-CHANGELOG.md export-ignore
+*.css linguist-language=Laravel 5.6
