@@ -1,0 +1,16 @@
+.my-panel:hover {
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.carousel{
+    background: #2f4357;
+}
+/*.carousel .item{*/
+/*height: 541px;*/
+/*!*min-height: 280px; !* Prevent carousel from being distorted if for some reason image doesn't load *!*!*/
+/*}*/
+.carousel .item img{
+    margin: 0 auto; /* Align slide image horizontally center */
+}
